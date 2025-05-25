@@ -1,0 +1,9 @@
+.dart_tool/
+build/
+.firebase/
+.packages
+.flutter-plugins
+.idea/
+android/
+ios/
+web/firebase-config.js
